@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+pydantic
+typer
+rich
+python-dotenv
+pandas
+numpy
+scikit-learn
+nltk
+rapidfuzz
+tiktoken
+sentence-transformers
+pypdf
+beautifulsoup4
+lxml
+unstructured
+langchain-core
+langchain-text-splitters
+google-generativeai
+faiss-cpu; platform_system != "Windows"

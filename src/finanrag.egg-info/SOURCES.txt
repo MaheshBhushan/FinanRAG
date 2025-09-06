@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/config.py
+src/finanrag.egg-info/PKG-INFO
+src/finanrag.egg-info/SOURCES.txt
+src/finanrag.egg-info/dependency_links.txt
+src/finanrag.egg-info/entry_points.txt
+src/finanrag.egg-info/requires.txt
+src/finanrag.egg-info/top_level.txt
+src/generation/generator.py
+src/ingest/pipeline.py
+src/retrieval/retriever.py
