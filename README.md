@@ -1,4 +1,4 @@
-# FinanRAG — Standalone Financial Analyst RAG
+# FinanRAG - Standalone Financial Analyst RAG
 
 A Retrieval-Augmented Generation (RAG) assistant that ingests financial statements, tax regulations, and investment reports, then answers questions with clear explanations, risk highlights, tax summaries, and inline source citations.
 
