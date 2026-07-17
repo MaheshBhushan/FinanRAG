@@ -1,5 +1,7 @@
 # FinanRAG - Standalone Financial Analyst RAG
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 A Retrieval-Augmented Generation (RAG) assistant that ingests financial statements, tax regulations, and investment reports, then answers questions with clear explanations, risk highlights, tax summaries, and inline source citations.
 
 ## Features
