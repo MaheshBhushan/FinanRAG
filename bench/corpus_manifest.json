@@ -1,0 +1,200 @@
+[
+  {
+    "doc_id": "JPM-10K-2025-12-31",
+    "ticker": "JPM",
+    "cik": 19617,
+    "form": "10-K",
+    "period": "2025-12-31",
+    "filed": "2026-02-13",
+    "path": "data/JPM-10K-2025-12-31.htm",
+    "bytes": 12927325,
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+  },
+  {
+    "doc_id": "JPM-10K-2024-12-31",
+    "ticker": "JPM",
+    "cik": 19617,
+    "form": "10-K",
+    "period": "2024-12-31",
+    "filed": "2025-02-14",
+    "path": "data/JPM-10K-2024-12-31.htm",
+    "bytes": 12849180,
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961725000270/jpm-20241231.htm"
+  },
+  {
+    "doc_id": "JPM-10Q-2026-06-30",
+    "ticker": "JPM",
+    "cik": 19617,
+    "form": "10-Q",
+    "period": "2026-06-30",
+    "filed": "2026-08-06",
+    "path": "data/JPM-10Q-2026-06-30.htm",
+    "bytes": 11513874,
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026054343/jpm-20260630.htm"
+  },
+  {
+    "doc_id": "GS-10K-2025-12-31",
+    "ticker": "GS",
+    "cik": 886982,
+    "form": "10-K",
+    "period": "2025-12-31",
+    "filed": "2026-02-25",
+    "path": "data/GS-10K-2025-12-31.htm",
+    "bytes": 9611165,
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm"
+  },
+  {
+    "doc_id": "GS-10K-2024-12-31",
+    "ticker": "GS",
+    "cik": 886982,
+    "form": "10-K",
+    "period": "2024-12-31",
+    "filed": "2025-02-27",
+    "path": "data/GS-10K-2024-12-31.htm",
+    "bytes": 10084107,
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm"
+  },
+  {
+    "doc_id": "GS-10Q-2026-06-30",
+    "ticker": "GS",
+    "cik": 886982,
+    "form": "10-Q",
+    "period": "2026-06-30",
+    "filed": "2026-08-03",
+    "path": "data/GS-10Q-2026-06-30.htm",
+    "bytes": 9004943,
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000297/gs-20260630.htm"
+  },
+  {
+    "doc_id": "SCHW-10K-2025-12-31",
+    "ticker": "SCHW",
+    "cik": 316709,
+    "form": "10-K",
+    "period": "2025-12-31",
+    "filed": "2026-02-25",
+    "path": "data/SCHW-10K-2025-12-31.htm",
+    "bytes": 5307796,
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm"
+  },
+  {
+    "doc_id": "SCHW-10K-2024-12-31",
+    "ticker": "SCHW",
+    "cik": 316709,
+    "form": "10-K",
+    "period": "2024-12-31",
+    "filed": "2025-02-26",
+    "path": "data/SCHW-10K-2024-12-31.htm",
+    "bytes": 5863573,
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670925000010/schw-20241231.htm"
+  },
+  {
+    "doc_id": "SCHW-10Q-2026-06-30",
+    "ticker": "SCHW",
+    "cik": 316709,
+    "form": "10-Q",
+    "period": "2026-06-30",
+    "filed": "2026-08-07",
+    "path": "data/SCHW-10Q-2026-06-30.htm",
+    "bytes": 4422360,
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000031/schw-20260630.htm"
+  },
+  {
+    "doc_id": "BLK-10K-2025-12-31",
+    "ticker": "BLK",
+    "cik": 2012383,
+    "form": "10-K",
+    "period": "2025-12-31",
+    "filed": "2026-02-25",
+    "path": "data/BLK-10K-2025-12-31.htm",
+    "bytes": 12551314,
+    "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm"
+  },
+  {
+    "doc_id": "BLK-10K-2024-12-31",
+    "ticker": "BLK",
+    "cik": 2012383,
+    "form": "10-K",
+    "period": "2024-12-31",
+    "filed": "2025-02-25",
+    "path": "data/BLK-10K-2024-12-31.htm",
+    "bytes": 11025801,
+    "url": "https://www.sec.gov/Archives/edgar/data/2012383/000095017025026584/blk-20241231.htm"
+  },
+  {
+    "doc_id": "BLK-10Q-2026-06-30",
+    "ticker": "BLK",
+    "cik": 2012383,
+    "form": "10-Q",
+    "period": "2026-06-30",
+    "filed": "2026-08-06",
+    "path": "data/BLK-10Q-2026-06-30.htm",
+    "bytes": 10477999,
+    "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526337177/blk-20260630.htm"
+  },
+  {
+    "doc_id": "AAPL-10K-2025-09-27",
+    "ticker": "AAPL",
+    "cik": 320193,
+    "form": "10-K",
+    "period": "2025-09-27",
+    "filed": "2025-10-31",
+    "path": "data/AAPL-10K-2025-09-27.htm",
+    "bytes": 1520208,
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+  },
+  {
+    "doc_id": "AAPL-10K-2024-09-28",
+    "ticker": "AAPL",
+    "cik": 320193,
+    "form": "10-K",
+    "period": "2024-09-28",
+    "filed": "2024-11-01",
+    "path": "data/AAPL-10K-2024-09-28.htm",
+    "bytes": 1503780,
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/aapl-20240928.htm"
+  },
+  {
+    "doc_id": "AAPL-10Q-2026-06-27",
+    "ticker": "AAPL",
+    "cik": 320193,
+    "form": "10-Q",
+    "period": "2026-06-27",
+    "filed": "2026-07-31",
+    "path": "data/AAPL-10Q-2026-06-27.htm",
+    "bytes": 1018210,
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm"
+  },
+  {
+    "doc_id": "MSFT-10K-2026-06-30",
+    "ticker": "MSFT",
+    "cik": 789019,
+    "form": "10-K",
+    "period": "2026-06-30",
+    "filed": "2026-07-29",
+    "path": "data/MSFT-10K-2026-06-30.htm",
+    "bytes": 8585501,
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+  },
+  {
+    "doc_id": "MSFT-10K-2025-06-30",
+    "ticker": "MSFT",
+    "cik": 789019,
+    "form": "10-K",
+    "period": "2025-06-30",
+    "filed": "2025-07-30",
+    "path": "data/MSFT-10K-2025-06-30.htm",
+    "bytes": 8158067,
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm"
+  },
+  {
+    "doc_id": "MSFT-10Q-2026-03-31",
+    "ticker": "MSFT",
+    "cik": 789019,
+    "form": "10-Q",
+    "period": "2026-03-31",
+    "filed": "2026-04-29",
+    "path": "data/MSFT-10Q-2026-03-31.htm",
+    "bytes": 7731948,
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm"
+  }
+]

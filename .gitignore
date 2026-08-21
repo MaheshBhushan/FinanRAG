@@ -1,0 +1,8 @@
+data/
+indexes/
+.venv/
+.env
+__pycache__/
+*.pyc
+bench/results/
+bench/.cache/

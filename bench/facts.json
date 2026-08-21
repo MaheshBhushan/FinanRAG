@@ -1,0 +1,6484 @@
+{
+  "JPM-10K-2024-12-31": {
+    "Assets": [
+      {
+        "value": 3665743000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022Q4I"
+      },
+      {
+        "value": 3875393000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 4002814000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 3547515000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 3658056000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 292332000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022Q4I"
+      },
+      {
+        "value": 327878000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 344758000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 37676000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 49552000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 58471000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Revenues": [
+      {
+        "value": 128695000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 158104000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 177556000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 12.09,
+        "unit": "USD/shares",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 16.23,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 19.75,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 12.1,
+        "unit": "USD/shares",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 16.25,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 19.79,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 8490000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 12060000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 16610000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 2934200000,
+        "unit": "shares",
+        "start": null,
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022Q4I"
+      },
+      {
+        "value": 2876600000,
+        "unit": "shares",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 2797600000,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 3162000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 9824000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 18830000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ]
+  },
+  "JPM-10K-2025-12-31": {
+    "Assets": [
+      {
+        "value": 3875393000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 4002814000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 4424900000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 3658056000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 4062462000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 327878000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 344758000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 362438000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 49552000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 58471000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 57048000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Revenues": [
+      {
+        "value": 158104000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 177556000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 182447000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 16.23,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 19.75,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 20.02,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 16.25,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 19.79,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 20.05,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 12060000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 16610000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 15547000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 2876600000,
+        "unit": "shares",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 2797600000,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 2696200000,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025Q4I"
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 9824000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 18830000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 31591000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ]
+  },
+  "JPM-10Q-2026-06-30": {
+    "Assets": [
+      {
+        "value": 4552482000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 4424900000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 5015069000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 4062462000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 4640471000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 356924000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 362438000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 374598000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 29630000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 14987000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 37649000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 21155000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 10.31,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 5.24,
+        "unit": "USD/shares",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 13.63,
+        "unit": "USD/shares",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 7.7,
+        "unit": "USD/shares",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 10.32,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 5.25,
+        "unit": "USD/shares",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 13.65,
+        "unit": "USD/shares",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 7.71,
+        "unit": "USD/shares",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 7062000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 3297000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 10346000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 6361000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 15034000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 15113000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      }
+    ]
+  },
+  "SCHW-10K-2024-12-31": {
+    "Assets": [
+      {
+        "value": 493178000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 479843000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 452220000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 431468000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 56261000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2021-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2021Q4I"
+      },
+      {
+        "value": 36608000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 40958000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 48375000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 7183000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 5067000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 5942000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Revenues": [
+      {
+        "value": 20762000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 18837000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 19606000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 40195000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022Q4I"
+      },
+      {
+        "value": 43337000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 42083000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 3.5,
+        "unit": "USD/shares",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 2.54,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 2.99,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 3.52,
+        "unit": "USD/shares",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 2.55,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 3,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 2205000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 1311000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 1750000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 3395000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 2842000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 0,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ]
+  },
+  "SCHW-10K-2025-12-31": {
+    "Assets": [
+      {
+        "value": 479843000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 490995000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 431468000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 441570000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 36608000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2022-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022Q4I"
+      },
+      {
+        "value": 40958000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 48375000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 49425000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 5067000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 5942000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 8852000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Revenues": [
+      {
+        "value": 18837000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 19606000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 23921000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 43337000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 42083000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 46030000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 2.54,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 2.99,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 4.65,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 2.55,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 3,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 4.67,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 1311000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 1750000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 2607000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 2842000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 0,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 7346000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ]
+  },
+  "SCHW-10Q-2026-06-30": {
+    "Assets": [
+      {
+        "value": 490995000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 517266000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 441570000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 467119000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 48375000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 49511000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q1I"
+      },
+      {
+        "value": 49451000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 49425000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 49234000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      },
+      {
+        "value": 50147000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 4035000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 2126000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 5279000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 2800000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "Revenues": [
+      {
+        "value": 11450000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 5851000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 13554000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 7072000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 32195000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 46030000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 40580000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 2.07,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1.08,
+        "unit": "USD/shares",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 2.91,
+        "unit": "USD/shares",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1.54,
+        "unit": "USD/shares",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 2.07,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1.09,
+        "unit": "USD/shares",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 2.92,
+        "unit": "USD/shares",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1.55,
+        "unit": "USD/shares",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 1223000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 677000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 1578000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 869000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 1833000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 3377000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      }
+    ]
+  },
+  "AAPL-10K-2024-09-28": {
+    "Assets": [
+      {
+        "value": 352583000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q3I"
+      },
+      {
+        "value": 364980000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 290437000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q3I"
+      },
+      {
+        "value": 308030000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 63090000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2021-09-25",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2021Q3I"
+      },
+      {
+        "value": 50672000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2022-09-24",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 62146000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 56950000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 99803000000,
+        "unit": "USD",
+        "start": "2021-09-26",
+        "end": "2022-09-24",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 96995000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 93736000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "RevenueFromContractWithCustomerExcludingAssessedTax": [
+      {
+        "value": 394328000000,
+        "unit": "USD",
+        "start": "2021-09-26",
+        "end": "2022-09-24",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 383285000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 391035000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 29965000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q3I"
+      },
+      {
+        "value": 29943000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "OperatingIncomeLoss": [
+      {
+        "value": 119437000000,
+        "unit": "USD",
+        "start": "2021-09-26",
+        "end": "2022-09-24",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 114301000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 123216000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 6.11,
+        "unit": "USD/shares",
+        "start": "2021-09-26",
+        "end": "2022-09-24",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 6.13,
+        "unit": "USD/shares",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 6.08,
+        "unit": "USD/shares",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 6.15,
+        "unit": "USD/shares",
+        "start": "2021-09-26",
+        "end": "2022-09-24",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 6.16,
+        "unit": "USD/shares",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 6.11,
+        "unit": "USD/shares",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 19300000000,
+        "unit": "USD",
+        "start": "2021-09-26",
+        "end": "2022-09-24",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 16741000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 29749000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "ResearchAndDevelopmentExpense": [
+      {
+        "value": 26251000000,
+        "unit": "USD",
+        "start": "2021-09-26",
+        "end": "2022-09-24",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 29915000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 31370000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 15550061000,
+        "unit": "shares",
+        "start": null,
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q3I"
+      },
+      {
+        "value": 15116786000,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "LongTermDebtNoncurrent": [
+      {
+        "value": 95281000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q3I"
+      },
+      {
+        "value": 85750000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 89402000000,
+        "unit": "USD",
+        "start": "2021-09-26",
+        "end": "2022-09-24",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 77550000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 94949000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ]
+  },
+  "AAPL-10K-2025-09-27": {
+    "Assets": [
+      {
+        "value": 364980000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q3I"
+      },
+      {
+        "value": 359241000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 308030000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q3I"
+      },
+      {
+        "value": 285508000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 50672000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2022-09-24",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022Q3I"
+      },
+      {
+        "value": 62146000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-09-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q3I"
+      },
+      {
+        "value": 56950000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 73733000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 96995000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 93736000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 112010000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "RevenueFromContractWithCustomerExcludingAssessedTax": [
+      {
+        "value": 383285000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 391035000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 416161000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 29943000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q3I"
+      },
+      {
+        "value": 35934000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "OperatingIncomeLoss": [
+      {
+        "value": 114301000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 123216000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 133050000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 6.13,
+        "unit": "USD/shares",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 6.08,
+        "unit": "USD/shares",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 7.46,
+        "unit": "USD/shares",
+        "start": "2024-09-29",
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 6.16,
+        "unit": "USD/shares",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 6.11,
+        "unit": "USD/shares",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 7.49,
+        "unit": "USD/shares",
+        "start": "2024-09-29",
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 16741000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 29749000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 20719000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "ResearchAndDevelopmentExpense": [
+      {
+        "value": 29915000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 31370000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 34550000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 15116786000,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q3I"
+      },
+      {
+        "value": 14773260000,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "LongTermDebtNoncurrent": [
+      {
+        "value": 85750000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q3I"
+      },
+      {
+        "value": 78328000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 77550000000,
+        "unit": "USD",
+        "start": "2022-09-25",
+        "end": "2023-09-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 94949000000,
+        "unit": "USD",
+        "start": "2023-10-01",
+        "end": "2024-09-28",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 90711000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-09-27",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ]
+  },
+  "AAPL-10Q-2026-06-27": {
+    "Assets": [
+      {
+        "value": 359241000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q3I"
+      },
+      {
+        "value": 383266000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 285508000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q3I"
+      },
+      {
+        "value": 275746000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 56950000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-09-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2024Q3I"
+      },
+      {
+        "value": 66796000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-03-29",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1I"
+      },
+      {
+        "value": 65830000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 73733000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q3I"
+      },
+      {
+        "value": 106491000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-03-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      },
+      {
+        "value": 107520000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 84544000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 23434000000,
+        "unit": "USD",
+        "start": "2025-03-30",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 101464000000,
+        "unit": "USD",
+        "start": "2025-09-28",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 29789000000,
+        "unit": "USD",
+        "start": "2026-03-29",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "RevenueFromContractWithCustomerExcludingAssessedTax": [
+      {
+        "value": 313695000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 94036000000,
+        "unit": "USD",
+        "start": "2025-03-30",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 364357000000,
+        "unit": "USD",
+        "start": "2025-09-28",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 109417000000,
+        "unit": "USD",
+        "start": "2026-03-29",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 35934000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q3I"
+      },
+      {
+        "value": 39544000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "OperatingIncomeLoss": [
+      {
+        "value": 100623000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 28202000000,
+        "unit": "USD",
+        "start": "2025-03-30",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 122432000000,
+        "unit": "USD",
+        "start": "2025-09-28",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 35695000000,
+        "unit": "USD",
+        "start": "2026-03-29",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 5.62,
+        "unit": "USD/shares",
+        "start": "2024-09-29",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1.57,
+        "unit": "USD/shares",
+        "start": "2025-03-30",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 6.88,
+        "unit": "USD/shares",
+        "start": "2025-09-28",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 2.02,
+        "unit": "USD/shares",
+        "start": "2026-03-29",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 5.64,
+        "unit": "USD/shares",
+        "start": "2024-09-29",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1.57,
+        "unit": "USD/shares",
+        "start": "2025-03-30",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 6.91,
+        "unit": "USD/shares",
+        "start": "2025-09-28",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 2.03,
+        "unit": "USD/shares",
+        "start": "2026-03-29",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 15381000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 4597000000,
+        "unit": "USD",
+        "start": "2025-03-30",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 21638000000,
+        "unit": "USD",
+        "start": "2025-09-28",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 6478000000,
+        "unit": "USD",
+        "start": "2026-03-29",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "ResearchAndDevelopmentExpense": [
+      {
+        "value": 25684000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 8866000000,
+        "unit": "USD",
+        "start": "2025-03-30",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 34035000000,
+        "unit": "USD",
+        "start": "2025-09-28",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 11729000000,
+        "unit": "USD",
+        "start": "2026-03-29",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 14773260000,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q3I"
+      },
+      {
+        "value": 14608963000,
+        "unit": "shares",
+        "start": null,
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "LongTermDebtNoncurrent": [
+      {
+        "value": 78328000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-09-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q3I"
+      },
+      {
+        "value": 71340000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 70579000000,
+        "unit": "USD",
+        "start": "2024-09-29",
+        "end": "2025-06-28",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 62094000000,
+        "unit": "USD",
+        "start": "2025-09-28",
+        "end": "2026-06-27",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      }
+    ]
+  },
+  "MSFT-10K-2025-06-30": {
+    "Assets": [
+      {
+        "value": 512163000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q2I"
+      },
+      {
+        "value": 619003000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 243686000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q2I"
+      },
+      {
+        "value": 275524000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 206223000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q2I"
+      },
+      {
+        "value": 268477000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 343479000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 72361000000,
+        "unit": "USD",
+        "start": "2022-07-01",
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 88136000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 101832000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "RevenueFromContractWithCustomerExcludingAssessedTax": [
+      {
+        "value": 211915000000,
+        "unit": "USD",
+        "start": "2022-07-01",
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 245122000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 281724000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 18315000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q2I"
+      },
+      {
+        "value": 30242000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "OperatingIncomeLoss": [
+      {
+        "value": 88523000000,
+        "unit": "USD",
+        "start": "2022-07-01",
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 109433000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 128528000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 9.68,
+        "unit": "USD/shares",
+        "start": "2022-07-01",
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 11.8,
+        "unit": "USD/shares",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 13.64,
+        "unit": "USD/shares",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 9.72,
+        "unit": "USD/shares",
+        "start": "2022-07-01",
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 11.86,
+        "unit": "USD/shares",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 13.7,
+        "unit": "USD/shares",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 16950000000,
+        "unit": "USD",
+        "start": "2022-07-01",
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 19651000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 21795000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "ResearchAndDevelopmentExpense": [
+      {
+        "value": 27195000000,
+        "unit": "USD",
+        "start": "2022-07-01",
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 29510000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 32488000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 7464000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2022-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022Q2I"
+      },
+      {
+        "value": 7432000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 7434000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 7434000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "LongTermDebtNoncurrent": [
+      {
+        "value": 42688000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q2I"
+      },
+      {
+        "value": 40152000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 22245000000,
+        "unit": "USD",
+        "start": "2022-07-01",
+        "end": "2023-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 17254000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 18420000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ]
+  },
+  "MSFT-10Q-2026-03-31": {
+    "Assets": [
+      {
+        "value": 619003000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 694228000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 275524000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 279861000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 321891000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1I"
+      },
+      {
+        "value": 343479000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 414367000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 74599000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 25824000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1"
+      },
+      {
+        "value": 97983000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 31778000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1"
+      }
+    ],
+    "RevenueFromContractWithCustomerExcludingAssessedTax": [
+      {
+        "value": 205283000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 70066000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1"
+      },
+      {
+        "value": 241832000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 82886000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 30242000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 32105000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      }
+    ],
+    "OperatingIncomeLoss": [
+      {
+        "value": 94205000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 32000000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1"
+      },
+      {
+        "value": 114634000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 38398000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 9.99,
+        "unit": "USD/shares",
+        "start": "2024-07-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 3.46,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1"
+      },
+      {
+        "value": 13.14,
+        "unit": "USD/shares",
+        "start": "2025-07-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 4.27,
+        "unit": "USD/shares",
+        "start": "2026-01-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 10.03,
+        "unit": "USD/shares",
+        "start": "2024-07-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 3.47,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1"
+      },
+      {
+        "value": 13.19,
+        "unit": "USD/shares",
+        "start": "2025-07-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 4.28,
+        "unit": "USD/shares",
+        "start": "2026-01-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 16412000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 5553000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1"
+      },
+      {
+        "value": 23904000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 7562000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1"
+      }
+    ],
+    "ResearchAndDevelopmentExpense": [
+      {
+        "value": 23659000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 8198000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1"
+      },
+      {
+        "value": 25565000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 8915000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1"
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 7434000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 7429000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      }
+    ],
+    "LongTermDebtNoncurrent": [
+      {
+        "value": 40152000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 31423000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 13874000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 4781000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2025Q1"
+      },
+      {
+        "value": 17692000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 4627000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q3",
+        "form": "10-Q",
+        "frame": "CY2026Q1"
+      }
+    ]
+  },
+  "MSFT-10K-2026-06-30": {
+    "Assets": [
+      {
+        "value": 619003000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 758376000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 275524000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 315989000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 268477000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q2I"
+      },
+      {
+        "value": 343479000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 442387000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 88136000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 101832000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      },
+      {
+        "value": 133749000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026"
+      }
+    ],
+    "RevenueFromContractWithCustomerExcludingAssessedTax": [
+      {
+        "value": 245122000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 281724000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      },
+      {
+        "value": 331839000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 30242000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 20935000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "OperatingIncomeLoss": [
+      {
+        "value": 109433000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 128528000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      },
+      {
+        "value": 155237000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 11.8,
+        "unit": "USD/shares",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 13.64,
+        "unit": "USD/shares",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      },
+      {
+        "value": 17.95,
+        "unit": "USD/shares",
+        "start": "2025-07-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 11.86,
+        "unit": "USD/shares",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 13.7,
+        "unit": "USD/shares",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      },
+      {
+        "value": 18,
+        "unit": "USD/shares",
+        "start": "2025-07-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 19651000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 21795000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      },
+      {
+        "value": 32185000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026"
+      }
+    ],
+    "ResearchAndDevelopmentExpense": [
+      {
+        "value": 29510000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 32488000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      },
+      {
+        "value": 35562000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026"
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 7432000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2023-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q2I"
+      },
+      {
+        "value": 7434000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q2I"
+      },
+      {
+        "value": 7434000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 7427000000,
+        "unit": "shares",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "LongTermDebtNoncurrent": [
+      {
+        "value": 40152000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 31067000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 17254000000,
+        "unit": "USD",
+        "start": "2023-07-01",
+        "end": "2024-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 18420000000,
+        "unit": "USD",
+        "start": "2024-07-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      },
+      {
+        "value": 22271000000,
+        "unit": "USD",
+        "start": "2025-07-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2026"
+      }
+    ]
+  },
+  "GS-10K-2024-12-31": {
+    "Assets": [
+      {
+        "value": 1641594000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 1675972000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 1524689000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 1553976000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 117189000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022Q4I"
+      },
+      {
+        "value": 116905000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 121996000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 11261000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 8516000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 14276000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 241577000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 182092000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 30.06,
+        "unit": "USD/shares",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 22.87,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 40.54,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 30.42,
+        "unit": "USD/shares",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 23.05,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 41.07,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 2225000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 2223000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 4121000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 323376354,
+        "unit": "shares",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 310653708,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "InterestExpense": [
+      {
+        "value": 21346000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 62164000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 73341000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 3500000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 5796000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 8000000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ]
+  },
+  "GS-10K-2025-12-31": {
+    "Assets": [
+      {
+        "value": 1675972000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 1809320000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 1553976000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 1684348000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 116905000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 121996000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 124972000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 8516000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 14276000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 17176000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 182092000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 164259000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 22.87,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 40.54,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 51.32,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 23.05,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 41.07,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 51.95,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 2223000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 4121000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 4676000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 310653708,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 296476742,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "InterestExpense": [
+      {
+        "value": 62164000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 73341000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 66814000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 5796000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 8000000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 12360000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ]
+  },
+  "GS-10Q-2026-06-30": {
+    "Assets": [
+      {
+        "value": 1809320000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 2060180000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      },
+      {
+        "value": 2127711000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 1684348000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 1937398000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-03-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q1I"
+      },
+      {
+        "value": 2004969000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 124096000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2I"
+      },
+      {
+        "value": 124972000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 122742000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 8461000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 3723000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 12258000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 6628000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 164259000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 187266000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 25.07,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 10.91,
+        "unit": "USD/shares",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 38.51,
+        "unit": "USD/shares",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 20.98,
+        "unit": "USD/shares",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 2144000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1235000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 2791000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1935000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 296476742,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 291442355,
+        "unit": "shares",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 7360000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 9000000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      }
+    ]
+  },
+  "BLK-10K-2024-12-31": {
+    "Assets": [
+      {
+        "value": 123211000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 138615000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 81971000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 89260000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 39347000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 47495000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 5178000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 5502000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 6369000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Revenues": [
+      {
+        "value": 11061000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 11012000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 12794000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      }
+    ],
+    "RevenueFromContractWithCustomerExcludingAssessedTax": [
+      {
+        "value": 17873000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 17859000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 20407000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 8736000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 12762000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "OperatingIncomeLoss": [
+      {
+        "value": 6385000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 6275000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 7574000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 33.97,
+        "unit": "USD/shares",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 36.51,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 42.01,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 34.31,
+        "unit": "USD/shares",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 36.85,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 42.45,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 1296000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 1479000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 1783000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 148500074,
+        "unit": "shares",
+        "start": null,
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023Q4I"
+      },
+      {
+        "value": 154947813,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "PaymentsForRepurchaseOfCommonStock": [
+      {
+        "value": 2332000000,
+        "unit": "USD",
+        "start": "2022-01-01",
+        "end": "2022-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2022"
+      },
+      {
+        "value": 1884000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 1930000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2024,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      }
+    ]
+  },
+  "BLK-10K-2025-12-31": {
+    "Assets": [
+      {
+        "value": 138615000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 169998000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 89260000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 108456000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 47495000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 55888000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 5502000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 6369000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      },
+      {
+        "value": 5553000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "RevenueFromContractWithCustomerExcludingAssessedTax": [
+      {
+        "value": 17859000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 20407000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 24216000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 12762000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 11468000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ],
+    "OperatingIncomeLoss": [
+      {
+        "value": 6275000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 7574000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 7045000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 36.51,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 42.01,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 35.31,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 36.85,
+        "unit": "USD/shares",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 42.45,
+        "unit": "USD/shares",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 35.83,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 1479000000,
+        "unit": "USD",
+        "start": "2023-01-01",
+        "end": "2023-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2023"
+      },
+      {
+        "value": 1783000000,
+        "unit": "USD",
+        "start": "2024-01-01",
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024"
+      },
+      {
+        "value": 1677000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2025"
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 154947813,
+        "unit": "shares",
+        "start": null,
+        "end": "2024-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": "CY2024Q4I"
+      },
+      {
+        "value": 155069171,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2025,
+        "fp": "FY",
+        "form": "10-K",
+        "frame": null
+      }
+    ]
+  },
+  "BLK-10Q-2026-06-30": {
+    "Assets": [
+      {
+        "value": 169998000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 175875000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "Liabilities": [
+      {
+        "value": 108456000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 111335000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "StockholdersEquity": [
+      {
+        "value": 55888000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 57613000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "NetIncomeLoss": [
+      {
+        "value": 3103000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1593000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 4126000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1914000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "RevenueFromContractWithCustomerExcludingAssessedTax": [
+      {
+        "value": 10699000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 5423000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 13782000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 7084000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "CashAndCashEquivalentsAtCarryingValue": [
+      {
+        "value": 11468000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 10492000000,
+        "unit": "USD",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ],
+    "OperatingIncomeLoss": [
+      {
+        "value": 3429000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 1731000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 5275000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 2461000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "EarningsPerShareDiluted": [
+      {
+        "value": 19.83,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 10.19,
+        "unit": "USD/shares",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 26.25,
+        "unit": "USD/shares",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 12.19,
+        "unit": "USD/shares",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "EarningsPerShareBasic": [
+      {
+        "value": 20.03,
+        "unit": "USD/shares",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 10.29,
+        "unit": "USD/shares",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 26.58,
+        "unit": "USD/shares",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 12.34,
+        "unit": "USD/shares",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "IncomeTaxExpenseBenefit": [
+      {
+        "value": 835000000,
+        "unit": "USD",
+        "start": "2025-01-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 587000000,
+        "unit": "USD",
+        "start": "2025-04-01",
+        "end": "2025-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q2"
+      },
+      {
+        "value": 1193000000,
+        "unit": "USD",
+        "start": "2026-01-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": null
+      },
+      {
+        "value": 677000000,
+        "unit": "USD",
+        "start": "2026-04-01",
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2"
+      }
+    ],
+    "CommonStockSharesOutstanding": [
+      {
+        "value": 155069171,
+        "unit": "shares",
+        "start": null,
+        "end": "2025-12-31",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2025Q4I"
+      },
+      {
+        "value": 154996807,
+        "unit": "shares",
+        "start": null,
+        "end": "2026-06-30",
+        "fy": 2026,
+        "fp": "Q2",
+        "form": "10-Q",
+        "frame": "CY2026Q2I"
+      }
+    ]
+  }
+}
