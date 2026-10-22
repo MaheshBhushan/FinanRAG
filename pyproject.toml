@@ -19,7 +19,7 @@ dependencies = [
   "sentence-transformers",
   "faiss-cpu; platform_system != 'Windows'",
   "faiss-cpu-windows; platform_system == 'Windows'",
-  "pypdf",
+  "pypdf>=6.21.1",
   "beautifulsoup4",
   "lxml",
   "unstructured",

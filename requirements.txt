@@ -11,7 +11,7 @@ nltk
 rapidfuzz
 tiktoken
 sentence-transformers
-pypdf
+pypdf>=6.21.1
 beautifulsoup4
 lxml
 unstructured
