@@ -17,5 +17,6 @@ lxml
 unstructured
 langchain-core
 langchain-text-splitters
+llama-index-core
 google-generativeai
 faiss-cpu; platform_system != "Windows"

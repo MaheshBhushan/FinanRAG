@@ -1,0 +1,18 @@
+[
+  {
+    "id": "supported-example",
+    "question": "What revenue did the company report for the fiscal year?",
+    "expected_supported": true,
+    "expected_sources": ["relative/path/to/annual-report.pdf"],
+    "answer": "The company reported revenue in its annual report.",
+    "citations": ["relative/path/to/annual-report.pdf"]
+  },
+  {
+    "id": "unsupported-example",
+    "question": "What was the company's revenue in a year absent from the collection?",
+    "expected_supported": false,
+    "expected_sources": [],
+    "answer": "",
+    "citations": []
+  }
+]

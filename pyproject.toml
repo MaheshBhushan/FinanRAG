@@ -25,6 +25,7 @@ dependencies = [
   "unstructured",
   "langchain-core",
   "langchain-text-splitters",
+  "llama-index-core",
 ]
 
 [project.scripts]

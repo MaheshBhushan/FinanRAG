@@ -82,6 +82,18 @@ python scripts/cli.py ask "Explain current ratio, risks, and tax implications fo
 ```
 The tool returns an answer and JSON with `[source N]` citations and file paths.
 
+## Compare Retrieval Pipelines
+
+Create a held-out fixture file from questions reviewed against your document collection. Copy `fixtures/retrieval_questions.example.json` to `fixtures/retrieval_questions.json`, then replace its example questions, source paths, expected support labels, and optional answer/citation records with reviewed cases. Do not tune the fixtures against retrieval results. `expected_sources` contains the source paths that support a question; `citations` and `answer` let the report flag citation misses and unsupported answers in saved responses.
+
+Build the normal index first, then run:
+
+```bash
+python scripts/cli.py compare --index-dir indexes --fixtures fixtures/retrieval_questions.json
+```
+
+The command exposes the same stored chunks and normalized embeddings through LangChain and LlamaIndex retrievers. It reports per-pipeline retrieval support, citation precision and recall, citation failures, and unsupported answers. It does not generate answers or make model API calls, so the `answer` and `citations` fixture fields must contain responses recorded separately when answer-level checks are needed.
+
 ## Examples
 - "What does debt-to-equity indicate and what risks does a high D/E pose?"
 - "Summarize Section 179 deduction limits and phase-out rules."

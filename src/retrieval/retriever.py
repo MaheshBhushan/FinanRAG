@@ -3,10 +3,6 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import List, Tuple
 import json
-import numpy as np
-
-from sentence_transformers import SentenceTransformer
-
 from src.config import settings
 
 
@@ -23,6 +19,7 @@ def load_index(index_dir: str | Path | None = None):
     chunks = json.loads(Path(index_dir, "chunks.json").read_text(encoding="utf-8"))
     emb_path = Path(index_dir) / "embeddings.npy"
     if emb_path.exists():
+        import numpy as np
         embeddings = np.load(emb_path)
     else:
         embeddings = None
@@ -35,6 +32,9 @@ def load_index(index_dir: str | Path | None = None):
 
 
 def semantic_search(query: str, k: int = 5, model_name: str | None = None, index_dir: str | None = None) -> List[RetrievedChunk]:
+    import numpy as np
+    from sentence_transformers import SentenceTransformer
+
     model_name = model_name or settings.embedding_model
     faiss_index, chunks, embeddings = load_index(index_dir)
     model = SentenceTransformer(model_name)
