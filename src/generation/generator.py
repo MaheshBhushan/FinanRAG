@@ -5,6 +5,7 @@ import os
 
 from src.retrieval.retriever import RetrievedChunk
 from src.config import settings
+from src.evaluation.diagnostics import abstention_message, diagnose
 
 try:
     import google.generativeai as genai
@@ -16,6 +17,7 @@ except Exception:
 class Answer:
     text: str
     sources: List[dict]
+    diagnostics: dict | None = None
 
 
 def format_prompt(query: str, contexts: List[RetrievedChunk]) -> str:
@@ -29,6 +31,10 @@ def format_prompt(query: str, contexts: List[RetrievedChunk]) -> str:
 
 
 def generate_answer(query: str, contexts: List[RetrievedChunk]) -> Answer:
+    diagnostics = diagnose(query, contexts)
+    if diagnostics["abstain"]:
+        # Refuse before calling the LLM so missing or conflicting evidence never becomes an invented answer.
+        return Answer(text=abstention_message(diagnostics), sources=[], diagnostics=diagnostics)
     prompt = format_prompt(query, contexts)
     if genai and settings.gemini_api_key:
         genai.configure(api_key=settings.gemini_api_key)
@@ -43,4 +49,4 @@ def generate_answer(query: str, contexts: List[RetrievedChunk]) -> Answer:
             "Context provided includes citations."
         )
     sources = [{"id": c.id, "source": c.source, "score": c.score} for c in contexts]
-    return Answer(text=text, sources=sources)
+    return Answer(text=text, sources=sources, diagnostics=diagnostics)

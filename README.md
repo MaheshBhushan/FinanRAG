@@ -94,6 +94,19 @@ python scripts/cli.py compare --index-dir indexes --fixtures fixtures/retrieval_
 
 The command exposes the same stored chunks and normalized embeddings through LangChain and LlamaIndex retrievers. It reports per-pipeline retrieval support, citation precision and recall, citation failures, and unsupported answers. It does not generate answers or make model API calls, so the `answer` and `citations` fixture fields must contain responses recorded separately when answer-level checks are needed.
 
+## Retrieval Diagnostics and Abstention
+
+`generate_answer` runs retrieval diagnostics before it calls the LLM. The diagnostics list each retrieved chunk with its rank, score, source, query-term overlap, and money or percentage figures. The assistant abstains with a message starting "I cannot answer this from the indexed documents" when no chunk was retrieved, when no chunk reaches the score threshold (default 0.35), when no relevant chunk shares a content term with the question, or when relevant chunks from different sources report disjoint figures. Pass `--diagnostics` to `ask` to print the full report.
+
+`fixtures/abstention_cases.json` holds fixed questions with recorded retrieval results: supported answers, missing years, missing topics, an empty index, and conflicting revenue figures. Run them without an index or model:
+
+```bash
+python scripts/cli.py abstention --fixtures fixtures/abstention_cases.json
+python -m unittest tests/test_abstention.py
+```
+
+The report shows decision accuracy, abstention recall, invented answers on unsupported cases, and evidence-link failures for supported cases.
+
 ## Examples
 - "What does debt-to-equity indicate and what risks does a high D/E pose?"
 - "Summarize Section 179 deduction limits and phase-out rules."

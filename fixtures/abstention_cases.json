@@ -1,0 +1,60 @@
+[
+  {
+    "id": "supported-revenue",
+    "category": "supported",
+    "question": "What revenue did Northwind report for fiscal 2023?",
+    "expected": "answer",
+    "expected_sources": ["northwind/annual-report-2023.pdf"],
+    "retrieved": [
+      {"id": "ar23-4", "source": "northwind/annual-report-2023.pdf", "score": 0.71, "text": "Northwind reported revenue of $4.2 billion for fiscal 2023, up 8% year over year."},
+      {"id": "ar23-9", "source": "northwind/annual-report-2023.pdf", "score": 0.44, "text": "Operating expenses grew in line with headcount."}
+    ]
+  },
+  {
+    "id": "missing-year",
+    "category": "missing_source",
+    "question": "What revenue did Northwind report for fiscal 2019?",
+    "expected": "abstain",
+    "retrieved": [
+      {"id": "tax-2", "source": "tax/section-179.html", "score": 0.22, "text": "Section 179 allows businesses to deduct qualifying equipment purchases."},
+      {"id": "ar23-9", "source": "northwind/annual-report-2023.pdf", "score": 0.19, "text": "Operating expenses grew in line with headcount."}
+    ]
+  },
+  {
+    "id": "missing-topic",
+    "category": "missing_source",
+    "question": "What dividend yield does Contoso pay on preferred shares?",
+    "expected": "abstain",
+    "retrieved": [
+      {"id": "ar23-4", "source": "northwind/annual-report-2023.pdf", "score": 0.41, "text": "Northwind reported revenue of $4.2 billion for fiscal 2023, up 8% year over year."}
+    ]
+  },
+  {
+    "id": "empty-index",
+    "category": "missing_source",
+    "question": "What is Fabrikam's current ratio?",
+    "expected": "abstain",
+    "retrieved": []
+  },
+  {
+    "id": "conflicting-revenue",
+    "category": "conflicting_sources",
+    "question": "What revenue did Northwind report for fiscal 2023?",
+    "expected": "abstain",
+    "retrieved": [
+      {"id": "ar23-4", "source": "northwind/annual-report-2023.pdf", "score": 0.71, "text": "Northwind reported revenue of $4.2 billion for fiscal 2023."},
+      {"id": "pr-1", "source": "northwind/press-release-q4.html", "score": 0.68, "text": "Northwind fiscal 2023 revenue reached $3.9 billion."}
+    ]
+  },
+  {
+    "id": "agreeing-sources",
+    "category": "supported",
+    "question": "What revenue did Northwind report for fiscal 2023?",
+    "expected": "answer",
+    "expected_sources": ["northwind/annual-report-2023.pdf", "northwind/press-release-q4.html"],
+    "retrieved": [
+      {"id": "ar23-4", "source": "northwind/annual-report-2023.pdf", "score": 0.71, "text": "Northwind reported revenue of $4.2 billion for fiscal 2023."},
+      {"id": "pr-2", "source": "northwind/press-release-q4.html", "score": 0.66, "text": "Fiscal 2023 revenue for Northwind totaled $4.2 billion."}
+    ]
+  }
+]
